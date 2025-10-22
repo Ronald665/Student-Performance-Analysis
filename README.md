@@ -92,12 +92,12 @@ Cultural or environmental factors may play a role in these disparities. Students
 * Students who completed a test preparation course scored significantly higher.
 * Male students benefited slightly more (mean increased from 66.7 → 72.3) compared to females (61.7 → 67.2).
   
-<img width="341" height="210" alt="image" src="https://github.com/user-attachments/assets/998346cb-d924-4836-97d3-820aa6429309" />
+<img width="501" height="210" alt="image" src="https://github.com/user-attachments/assets/998346cb-d924-4836-97d3-820aa6429309" />
 
 **Interpretation:**
 This demonstrates the strong positive impact of structured test preparation on student performance and confidence.
 
-<img width="416" height="284" alt="image" src="https://github.com/user-attachments/assets/d632602f-ad9f-4fbf-8e80-56b278bd1ae9" />
+<img width="496" height="284" alt="image" src="https://github.com/user-attachments/assets/d632602f-ad9f-4fbf-8e80-56b278bd1ae9" />
 
 **Recommendations:**
 
@@ -117,12 +117,12 @@ This demonstrates the strong positive impact of structured test preparation on s
 **Insights:**
 Students with a standard lunch plan outperformed those on free/reduced lunches suggesting a connection between nutrition and academic success. The performance gap was more pronounced among male students.
 
-<img width="339" height="219" alt="image" src="https://github.com/user-attachments/assets/a34bcf8a-63aa-46f2-9862-c27c106d9b28" />
+<img width="550" height="309" alt="image" src="https://github.com/user-attachments/assets/a34bcf8a-63aa-46f2-9862-c27c106d9b28" />
 
 **Interpretation:**
 This emphasizes the influence of socio economic factors on educational outcomes. Poor nutrition may limit concentration and learning retention.
 
-<img width="261" height="198" alt="image" src="https://github.com/user-attachments/assets/317b7238-08a6-48c7-bd9a-3852f28f7828" />
+<img width="500" height="308" alt="image" src="https://github.com/user-attachments/assets/317b7238-08a6-48c7-bd9a-3852f28f7828" />
 
 **Recommendations:**
 
@@ -161,7 +161,8 @@ Educated parents likely provide more academic guidance, structured learning supp
 Students from **Group E** whose parents had a Master’s degree achieved the highest overall median score (81).
 This reflects the compounding advantage of cultural, socio economic, and educational factors, creating an environment highly conducive to academic success.
 
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/398c6639-66b5-49cb-a80d-3f301052ce78" />
+<img width="4800" height="3200" alt="heatmap_math_scores" src="https://github.com/user-attachments/assets/85df5af9-950f-474a-b0ec-dffc60eff449" />
+
 
 **Strategy:**
 
