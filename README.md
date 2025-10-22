@@ -12,7 +12,7 @@ The goal is to uncover performance patterns, identify key demographic or socio-e
 * **Female students:** 518
 * **Gender ratio:** Approximately **1:1**
 
-<img width="243" height="217" alt="image" src="https://github.com/user-attachments/assets/c1535e67-6602-4e49-8db2-4ab217ac0b91" />
+<img width="400" height="500" alt="image" src="https://github.com/user-attachments/assets/c1535e67-6602-4e49-8db2-4ab217ac0b91" />
 
 ## **3. General Performance in Mathematics**
 
@@ -23,7 +23,8 @@ The goal is to uncover performance patterns, identify key demographic or socio-e
 **Insights:**
 Overall student performance in mathematics centers around the mid-60s, indicating that while the general competency level is satisfactory, there is room for improvement.
 Most students scored within the **60–79** range, reflecting a moderate level of proficiency across the population.
-<img width="374" height="290" alt="image" src="https://github.com/user-attachments/assets/32b4bcaa-d671-4229-954a-68d6fd51eee5" />
+
+<img width="500" height="350" alt="image" src="https://github.com/user-attachments/assets/32b4bcaa-d671-4229-954a-68d6fd51eee5" />
 
 **Recommendation:**
 Schools should strengthen academic reinforcement programs such as after-school tutoring, peerassisted learning, and early performance monitoring to support students near or below the national average.
@@ -65,7 +66,8 @@ The results suggest possible differences in learning confidence, interest in mat
 * **Group E** students recorded the highest performance, followed by **Group D**.
 * Groups A–C lagged behind the national average of 66.
 * Male students in Group E had the highest median score (78), outperforming all other subgroups.
-<img width="415" height="277" alt="image" src="https://github.com/user-attachments/assets/43b6cf7e-dcb5-4dd0-ac54-98675e0bed1a" />
+  
+<img width="650" height="400" alt="image" src="https://github.com/user-attachments/assets/43b6cf7e-dcb5-4dd0-ac54-98675e0bed1a" />
 
 **Interpretation:**
 Cultural or environmental factors may play a role in these disparities. Students from Groups D and E likely benefit from strong academic motivation, supportive family structures, or access to better educational resources.
@@ -89,10 +91,12 @@ Cultural or environmental factors may play a role in these disparities. Students
 
 * Students who completed a test preparation course scored significantly higher.
 * Male students benefited slightly more (mean increased from 66.7 → 72.3) compared to females (61.7 → 67.2).
+  
 <img width="341" height="210" alt="image" src="https://github.com/user-attachments/assets/998346cb-d924-4836-97d3-820aa6429309" />
 
 **Interpretation:**
 This demonstrates the strong positive impact of structured test preparation on student performance and confidence.
+
 <img width="416" height="284" alt="image" src="https://github.com/user-attachments/assets/d632602f-ad9f-4fbf-8e80-56b278bd1ae9" />
 
 **Recommendations:**
@@ -112,10 +116,12 @@ This demonstrates the strong positive impact of structured test preparation on s
 
 **Insights:**
 Students with a standard lunch plan outperformed those on free/reduced lunches suggesting a connection between nutrition and academic success. The performance gap was more pronounced among male students.
+
 <img width="339" height="219" alt="image" src="https://github.com/user-attachments/assets/a34bcf8a-63aa-46f2-9862-c27c106d9b28" />
 
 **Interpretation:**
 This emphasizes the influence of socio economic factors on educational outcomes. Poor nutrition may limit concentration and learning retention.
+
 <img width="261" height="198" alt="image" src="https://github.com/user-attachments/assets/317b7238-08a6-48c7-bd9a-3852f28f7828" />
 
 **Recommendations:**
@@ -139,7 +145,8 @@ This emphasizes the influence of socio economic factors on educational outcomes.
 * Student performance improves with higher parental education levels.
 * Those with parents holding a Master’s degree achieved the highest median score (73).
 * Male students with parents holding a Master’s degree showed exceptional performance (median 79).
-<img width="458" height="293" alt="image" src="https://github.com/user-attachments/assets/fd516a36-8913-4075-928f-f5edaebc6a15" />
+  
+<img width="600" height="350" alt="image" src="https://github.com/user-attachments/assets/fd516a36-8913-4075-928f-f5edaebc6a15" />
 
 **Interpretation:**
 Educated parents likely provide more academic guidance, structured learning support, and motivation.
@@ -153,7 +160,8 @@ Educated parents likely provide more academic guidance, structured learning supp
 
 Students from **Group E** whose parents had a Master’s degree achieved the highest overall median score (81).
 This reflects the compounding advantage of cultural, socio economic, and educational factors, creating an environment highly conducive to academic success.
-<img width="462" height="324" alt="image" src="https://github.com/user-attachments/assets/398c6639-66b5-49cb-a80d-3f301052ce78" />
+
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/398c6639-66b5-49cb-a80d-3f301052ce78" />
 
 **Strategy:**
 
@@ -176,7 +184,8 @@ Negative correlation:
 * Free/reduced lunch
 * No test preparation
 * Lower parental education
-<img width="437" height="232" alt="image" src="https://github.com/user-attachments/assets/d59d4615-7251-4cd5-8828-3c04129c1549" />
+  
+<img width="900" height="500" alt="image" src="https://github.com/user-attachments/assets/d59d4615-7251-4cd5-8828-3c04129c1549" />
 
 **Interpretation:**
 Students’ academic success is most strongly influenced by nutrition, preparation, and parental background factors that can be improved through policy and community intervention.
