@@ -47,7 +47,7 @@ The results suggest possible differences in learning confidence, interest in mat
 **Strategic Recommendation:**
 
 * Encourage female participation in STEM related programs through mentorship, math clubs, and motivational workshops.
-* Incorporate genderresponsive teaching techniques to boost engagement and confidence among female students.
+* Incorporate gender responsive teaching techniques to boost engagement and confidence among female students.
 
 ---
 
@@ -92,7 +92,7 @@ Cultural or environmental factors may play a role in these disparities. Students
 * Students who completed a test preparation course scored significantly higher.
 * Male students benefited slightly more (mean increased from 66.7 → 72.3) compared to females (61.7 → 67.2).
   
-<img width="451" height="210" alt="image" src="https://github.com/user-attachments/assets/998346cb-d924-4836-97d3-820aa6429309" />
+<img width="400" height="210" alt="image" src="https://github.com/user-attachments/assets/998346cb-d924-4836-97d3-820aa6429309" />
 
 **Interpretation:**
 This demonstrates the strong positive impact of structured test preparation on student performance and confidence.
